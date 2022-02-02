@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 안녕하세요~~ 백엔드 개발자 이정아입니다.👋
 
 <!--
 **wjddk7507/wjddk7507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- <a href="https://www.notion.so/Resume-Junga-Lee-b4072c26ffbf4a5c9d1c8ffef4c76d31" target="_blank">👔 Resume 이력서</a>
